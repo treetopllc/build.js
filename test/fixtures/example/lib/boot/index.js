@@ -1,3 +1,4 @@
+// jshint ignore: start
 var assert = require('assert');
 
 module.exports = require('emitter');

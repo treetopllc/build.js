@@ -1,4 +1,4 @@
-
+// jshint ignore: start
 var resolve = require('component-resolver');
 var join = require('path').join;
 var assert = require('assert');
