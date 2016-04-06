@@ -23,7 +23,7 @@
   },
   "main": "lib",
   "scripts": {
-    "preinstall": "/bin/npm install git://github.com/treetopllc/builder-es6-module-to-cjs.git",
+    "preinstall": "npm install git://github.com/treetopllc/builder-es6-module-to-cjs.git",
     "test": "NODE=gnode make test"
   }
 }
